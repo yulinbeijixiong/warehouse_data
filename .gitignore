@@ -1,0 +1,4 @@
+# Project exclude paths
+/flume-interceptor/target/
+/hive_function/target/
+/log_collector/target/
